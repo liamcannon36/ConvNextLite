@@ -2,6 +2,6 @@
 A lightweight, experimental version of the ConvNext model.
 
 
-#Requirements: 
+# Requirements: 
 
 Python 3.10
